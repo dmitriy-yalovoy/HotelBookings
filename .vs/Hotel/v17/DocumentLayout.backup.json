@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|c:\\users\\hp\\source\\repos\\hotel\\hotel\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\guestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\guestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\managerservicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\managerservicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\managerreservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\managerreservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\managerroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\managerroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\manageroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\manageroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\servicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\servicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\reservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\reservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|C:\\Users\\HP\\source\\repos\\Hotel\\hotel\\managerguestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C307793-10F1-4F50-BED2-317EE8936973}|Hotel\\Hotel.csproj|solutionrelative:hotel\\managerguestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\BookingForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\BookingForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\BookingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\BookingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:33:49.837Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerServicesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerServicesForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\ManagerServicesForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerServicesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\ManagerServicesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:41:46.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\UserForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\UserForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\UserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\UserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:34:58.115Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerReservationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerReservationsForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\ManagerReservationsForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerReservationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\ManagerReservationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:39:37.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\GuestsForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\GuestsForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\GuestsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\GuestsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:35:03.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerRoomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerRoomsForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\ManagerRoomsForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerRoomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\ManagerRoomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:40:43.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageRoomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManageRoomsForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\ManageRoomsForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManageRoomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\ManageRoomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:38:16.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\ManagerForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:36:46.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\PaymentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\PaymentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:42:18.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ReservationsForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\ReservationsForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ReservationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\ReservationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:43:14.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServicesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ServicesForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\ServicesForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ServicesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\ServicesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:44:07.452Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerGuestsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerGuestsForm.cs",
+              "RelativeDocumentMoniker": "Hotel\\ManagerGuestsForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Hotel\\Hotel\\ManagerGuestsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\ManagerGuestsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:37:51.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
